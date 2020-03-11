@@ -15,4 +15,3 @@ services:
       POSTGRES_PASSWORD: changeme
       POSTGRES_USER: app
       POSTGRES_DB: hydrazine
-  pgadmin:
